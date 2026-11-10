@@ -1,0 +1,61 @@
+alert_id,project_id,alert_title,recipient_email,active
+AL-001,125,Missing required field,abrandt@example-health.org,1
+AL-002,108,Follow-up due,rholloway54@example-health.org,1
+AL-003,116,New case submitted,pabernathy@example-health.org,1
+AL-004,140,New case submitted,jellison@example-health.org,1
+AL-005,115,New case submitted,clindqvist@example-health.org,1
+AL-006,118,Survey complete,kbrandt@example-health.org,1
+AL-007,129,Survey complete,acastillo@example-health.org,1
+AL-008,136,Missing required field,pholloway104@example-health.org,1
+AL-009,137,New case submitted,cokafor138@example-health.org,1
+AL-010,101,Follow-up due,jellison@example-health.org,1
+AL-011,105,Missing required field,acoleman111@example-health.org,1
+AL-012,105,Lab result received,tmarsh65@example-health.org,1
+AL-013,103,Survey complete,bpruitt@example-health.org,1
+AL-014,128,Lab result received,jpruitt@example-health.org,1
+AL-015,118,Lab result received,qmarsh@example-health.org,1
+AL-016,124,Follow-up due,pholloway104@example-health.org,1
+AL-017,108,Missing required field,adelgado@example-health.org,1
+AL-018,129,Follow-up due,emarsh@example-health.org,1
+AL-019,129,Missing required field,hwhitfield@example-health.org,1
+AL-020,132,Lab result received,personal.inbox@mail-example.com,1
+AL-021,125,Survey complete,apruitt@example-health.org,1
+AL-022,105,Lab result received,lpruitt@example-health.org,1
+AL-023,101,Lab result received,alindqvist129@example-health.org,1
+AL-024,118,Missing required field,ptran@example-health.org,1
+AL-025,109,Follow-up due,llindqvist@example-health.org,1
+AL-026,102,Lab result received,hlindqvist@example-health.org,1
+AL-027,130,Missing required field,tokafor114@example-health.org,1
+AL-028,135,New case submitted,tabernathy125@example-health.org,1
+AL-029,125,Missing required field,smarsh132@example-health.org,1
+AL-030,132,Missing required field,tmarsh65@example-health.org,1
+AL-031,137,Missing required field,pholloway104@example-health.org,1
+AL-032,108,Survey complete,mokafor@example-health.org,1
+AL-033,135,Follow-up due,ccoleman@example-health.org,1
+AL-034,132,Follow-up due,ppruitt@example-health.org,1
+AL-035,128,New case submitted,qwhitfield@example-health.org,1
+AL-036,124,Follow-up due,rabernathy@example-health.org,1
+AL-037,113,Survey complete,clindqvist@example-health.org,1
+AL-038,104,Missing required field,hnakamura@example-health.org,1
+AL-039,132,Missing required field,ptran@example-health.org,1
+AL-040,113,New case submitted,spruitt@example-health.org,1
+AL-041,112,Follow-up due,alindqvist@example-health.org,1
+AL-042,134,Survey complete,kcastillo@example-health.org,1
+AL-043,132,Survey complete,mpruitt@example-health.org,1
+AL-044,134,Lab result received,snakamura@example-health.org,1
+AL-045,118,New case submitted,rsorensen@example-health.org,1
+AL-046,109,New case submitted,student.intern@example-health.org,1
+AL-047,137,New case submitted,former.staff2@example-health.org,1
+AL-048,111,Lab result received,kvance@example-health.org,1
+AL-049,114,Follow-up due,civerson@example-health.org,1
+AL-050,122,New case submitted,bpruitt@example-health.org,1
+AL-051,134,New case submitted,ccoleman122@example-health.org,1
+AL-052,132,Survey complete,former.staff1@example-health.org,1
+AL-053,122,Follow-up due,jtran91@example-health.org,1
+AL-054,131,Missing required field,rellison@example-health.org,1
+AL-055,102,New case submitted,dcoleman99@example-health.org,1
+AL-056,138,Missing required field,qsorensen46@example-health.org,1
+AL-057,140,Lab result received,rabernathy@example-health.org,1
+AL-058,113,Lab result received,dbrandt@example-health.org,1
+AL-059,106,Survey complete,bmarsh@example-health.org,1
+AL-060,121,New case submitted,pcoleman@example-health.org,1

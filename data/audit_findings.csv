@@ -1,0 +1,38 @@
+check_id,check,entity_key,detail
+C01,Offboarding gap: separated staff whose REDCap account is still active,biverson,full_name=Blake Iverson; separation_date=2025-12-23; last_login=2026-03-08
+C01,Offboarding gap: separated staff whose REDCap account is still active,diverson,full_name=Drew Iverson; separation_date=2026-01-28; last_login=2026-03-12
+C01,Offboarding gap: separated staff whose REDCap account is still active,diverson44,full_name=Drew Iverson; separation_date=2026-02-02; last_login=2026-02-28
+C01,Offboarding gap: separated staff whose REDCap account is still active,ldelgado,full_name=Logan Delgado; separation_date=2025-12-20; last_login=2026-03-10
+C01,Offboarding gap: separated staff whose REDCap account is still active,rmarsh,full_name=Rowan Marsh; separation_date=2026-01-10; last_login=2026-03-29
+C01,Offboarding gap: separated staff whose REDCap account is still active,siverson,full_name=Sage Iverson; separation_date=2025-12-12; last_login=2026-02-20
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",aellison,last_login=2025-06-09; projects_with_rights=2
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",atran,last_login=2025-10-04; projects_with_rights=3
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",cwhitfield,last_login=2025-10-15; projects_with_rights=3
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",kabernathy,last_login=2025-06-17; projects_with_rights=1
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",pmercer,last_login=2025-06-09; projects_with_rights=1
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",qcoleman,last_login=2025-12-08; projects_with_rights=2
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",swhitfield,last_login=2025-10-13; projects_with_rights=2
+C02,"Stale access: active account, no login in 90+ days, still holds project rights",tellison,last_login=2025-08-11; projects_with_rights=1
+C03,Least privilege: identifiable (Full) export on a Data Entry or Viewer role,105|elindqvist,project_id=105; username=elindqvist; role=Data Entry; data_export=Full
+C03,Least privilege: identifiable (Full) export on a Data Entry or Viewer role,111|tmercer,project_id=111; username=tmercer; role=Viewer; data_export=Full
+C03,Least privilege: identifiable (Full) export on a Data Entry or Viewer role,125|ssorensen,project_id=125; username=ssorensen; role=Data Entry; data_export=Full
+C03,Least privilege: identifiable (Full) export on a Data Entry or Viewer role,126|amarsh,project_id=126; username=amarsh; role=Data Entry; data_export=Full
+C03,Least privilege: identifiable (Full) export on a Data Entry or Viewer role,130|epruitt,project_id=130; username=epruitt; role=Data Entry; data_export=Full
+C04,Orphaned project: Production project whose owner account is suspended or missing,111,title=Vaccine follow-up 2026-11; owner_username=kvance; account_status=suspended
+C04,Orphaned project: Production project whose owner account is suspended or missing,121,title=Outbreak investigation 2024-21; owner_username=apruitt; account_status=suspended
+C04,Orphaned project: Production project whose owner account is suspended or missing,139,title=Program evaluation 2026-39; owner_username=mbrandt; account_status=suspended
+C05,Alert routing: active alert sends to an address that is not an active staff member,AL-020,project_id=132; alert_title=Lab result received; recipient_email=personal.inbox@mail-example.com
+C05,Alert routing: active alert sends to an address that is not an active staff member,AL-021,project_id=125; alert_title=Survey complete; recipient_email=apruitt@example-health.org
+C05,Alert routing: active alert sends to an address that is not an active staff member,AL-046,project_id=109; alert_title=New case submitted; recipient_email=student.intern@example-health.org
+C05,Alert routing: active alert sends to an address that is not an active staff member,AL-047,project_id=137; alert_title=New case submitted; recipient_email=former.staff2@example-health.org
+C05,Alert routing: active alert sends to an address that is not an active staff member,AL-048,project_id=111; alert_title=Lab result received; recipient_email=kvance@example-health.org
+C05,Alert routing: active alert sends to an address that is not an active staff member,AL-052,project_id=132; alert_title=Survey complete; recipient_email=former.staff1@example-health.org
+C06,Expired rights: user right past its expiration date still in place,105|rmercer,project_id=105; username=rmercer; expiration_date=2025-12-25
+C06,Expired rights: user right past its expiration date still in place,106|qholloway,project_id=106; username=qholloway; expiration_date=2025-11-03
+C06,Expired rights: user right past its expiration date still in place,111|lellison,project_id=111; username=lellison; expiration_date=2025-12-12
+C06,Expired rights: user right past its expiration date still in place,128|qsorensen,project_id=128; username=qsorensen; expiration_date=2025-12-11
+C06,Expired rights: user right past its expiration date still in place,130|tmercer,project_id=130; username=tmercer; expiration_date=2026-02-03
+C07,Documentation: Production project with no documentation on file,108,title=Case surveillance 2023-08; owner_username=qsorensen46
+C07,Documentation: Production project with no documentation on file,114,title=Case surveillance 2025-14; owner_username=bmarsh
+C07,Documentation: Production project with no documentation on file,117,title=Lab result intake 2024-17; owner_username=civerson
+C07,Documentation: Production project with no documentation on file,124,title=Vaccine follow-up 2023-24; owner_username=cdelgado

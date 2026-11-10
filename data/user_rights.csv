@@ -1,0 +1,315 @@
+project_id,username,role,data_export,design,user_rights_admin,expiration_date
+101,tdelgado,Owner,Full,1,1,
+101,jellison,Data Entry,None,0,0,
+101,qlindqvist,Data Entry,None,0,0,
+101,qmarsh,Viewer,De-identified,0,0,2026-06-23
+101,rmercer,Viewer,De-identified,0,0,2026-09-02
+101,lcastillo92,Data Entry,None,0,0,
+101,amarsh,Data Entry,None,0,0,2026-06-12
+102,rlindqvist,Owner,Full,1,1,
+102,aellison,Data Entry,None,0,0,2026-12-25
+102,diverson,Data Entry,None,0,0,
+102,ltran56,Viewer,De-identified,0,0,
+102,cabernathy,Data Entry,None,0,0,
+102,mholloway,Data Entry,None,0,0,
+102,kbrandt,Data Entry,None,0,0,2026-06-05
+103,mpruitt,Owner,Full,1,1,
+103,dokafor,Data Entry,None,0,0,
+103,aellison,Data Entry,None,0,0,
+103,llindqvist,Viewer,De-identified,0,0,
+103,ssorensen,Data Entry,None,0,0,
+103,hnakamura,Data Entry,None,0,0,
+103,pnakamura,Data Entry,None,0,0,
+103,diverson128,Analyst,Full,0,0,2026-07-05
+103,kvance,Data Entry,None,0,0,2026-07-15
+103,lcastillo92,Analyst,Full,0,0,
+104,pwhitfield,Owner,Full,1,1,
+104,stran,Viewer,De-identified,0,0,
+104,tabernathy,Analyst,De-identified,0,0,
+104,dcoleman99,Data Entry,None,0,0,
+104,rellison,Viewer,De-identified,0,0,2026-07-30
+105,tokafor114,Owner,Full,1,1,
+105,cokafor138,Data Entry,None,0,0,
+105,elindqvist,Data Entry,Full,0,0,
+105,rmercer,Data Entry,None,0,0,2025-12-25
+105,cokafor,Analyst,Full,0,0,
+105,hwhitfield45,Analyst,Full,0,0,
+105,jwhitfield,Analyst,Full,0,0,
+106,ccastillo,Owner,Full,1,1,
+106,tdelgado,Viewer,De-identified,0,0,2026-09-29
+106,dbrandt,Analyst,De-identified,0,0,2026-11-26
+106,aokafor,Viewer,De-identified,0,0,2026-07-25
+106,qholloway,Data Entry,None,0,0,2025-11-03
+106,rcoleman,Analyst,De-identified,0,0,
+106,plindqvist,Analyst,Full,0,0,2026-08-25
+106,kcastillo,Viewer,De-identified,0,0,
+106,tellison,Viewer,De-identified,0,0,
+106,bmarsh,Analyst,De-identified,0,0,
+107,ecoleman,Owner,Full,1,1,
+107,civerson,Data Entry,None,0,0,
+107,dholloway,Viewer,De-identified,0,0,
+107,hwhitfield45,Viewer,De-identified,0,0,
+107,smarsh132,Analyst,Full,0,0,2027-01-18
+107,alindqvist,Analyst,De-identified,0,0,2026-08-23
+107,diverson,Analyst,De-identified,0,0,2026-10-26
+108,qsorensen46,Owner,Full,1,1,
+108,spruitt,Analyst,Full,0,0,
+108,rabernathy,Data Entry,None,0,0,
+108,aokafor58,Viewer,De-identified,0,0,2026-07-19
+108,siverson,Viewer,De-identified,0,0,
+108,lellison,Data Entry,None,0,0,
+108,acoleman111,Viewer,De-identified,0,0,
+108,hlindqvist,Analyst,Full,0,0,
+108,tholloway,Analyst,De-identified,0,0,2026-06-18
+108,cabernathy,Data Entry,None,0,0,
+108,emarsh,Viewer,De-identified,0,0,
+109,dholloway,Owner,Full,1,1,
+109,pmarsh,Data Entry,None,0,0,
+109,rsorensen143,Data Entry,None,0,0,
+109,clindqvist,Data Entry,None,0,0,2026-07-06
+109,lholloway89,Data Entry,None,0,0,
+110,kcastillo,Owner,Full,1,1,
+110,lbrandt,Data Entry,None,0,0,
+110,dbrandt,Viewer,De-identified,0,0,
+110,alindqvist129,Data Entry,None,0,0,
+110,adelgado,Data Entry,None,0,0,2026-10-04
+110,kbrandt,Analyst,De-identified,0,0,2026-08-23
+110,qcastillo,Analyst,Full,0,0,
+110,jtran91,Data Entry,None,0,0,
+111,kvance,Owner,Full,1,1,
+111,qmarsh,Analyst,De-identified,0,0,
+111,bpruitt,Analyst,Full,0,0,2026-12-12
+111,pnakamura,Data Entry,None,0,0,2026-10-05
+111,rabernathy,Analyst,De-identified,0,0,
+111,rmarsh,Data Entry,None,0,0,2026-10-19
+111,hmercer,Analyst,Full,0,0,
+111,lellison,Viewer,De-identified,0,0,2025-12-12
+111,tmercer,Viewer,Full,0,0,2026-12-06
+111,sokafor,Viewer,De-identified,0,0,
+111,ldelgado,Analyst,Full,0,0,2026-11-13
+112,rlindqvist102,Owner,Full,1,1,
+112,smarsh,Analyst,Full,0,0,
+112,tmarsh65,Analyst,De-identified,0,0,
+112,csorensen,Analyst,De-identified,0,0,
+112,elindqvist,Data Entry,None,0,0,
+112,cdelgado93,Data Entry,None,0,0,2026-12-19
+112,qellison,Data Entry,None,0,0,
+112,swhitfield,Data Entry,None,0,0,
+112,mvance,Data Entry,None,0,0,2026-06-05
+112,atran,Viewer,De-identified,0,0,
+113,tiverson,Owner,Full,1,1,
+113,cabernathy,Analyst,Full,0,0,
+113,rholloway,Data Entry,None,0,0,2026-06-04
+113,dcoleman,Viewer,De-identified,0,0,2026-12-11
+113,ppruitt,Data Entry,None,0,0,
+113,qwhitfield,Data Entry,None,0,0,
+113,ldelgado,Analyst,De-identified,0,0,
+113,tokafor114,Data Entry,None,0,0,
+113,acastillo,Analyst,Full,0,0,2026-08-06
+113,kvance,Viewer,De-identified,0,0,
+113,ecoleman,Viewer,De-identified,0,0,2026-05-05
+114,bmarsh,Owner,Full,1,1,
+114,rmercer149,Analyst,De-identified,0,0,
+114,biverson,Data Entry,None,0,0,
+114,pcoleman,Viewer,De-identified,0,0,2026-07-09
+114,rsorensen143,Data Entry,None,0,0,
+114,lholloway,Analyst,Full,0,0,
+114,acastillo,Viewer,De-identified,0,0,
+115,hwhitfield,Owner,Full,1,1,
+115,bdelgado,Data Entry,None,0,0,
+115,qcoleman,Data Entry,None,0,0,
+115,qcastillo,Viewer,De-identified,0,0,2026-06-21
+115,lbrandt,Data Entry,None,0,0,
+115,stran,Viewer,De-identified,0,0,
+115,dcoleman,Analyst,De-identified,0,0,
+115,cokafor138,Data Entry,None,0,0,
+115,tsorensen,Viewer,De-identified,0,0,2026-08-11
+115,ldelgado,Data Entry,None,0,0,2026-08-11
+115,smarsh,Data Entry,None,0,0,
+116,jcastillo,Owner,Full,1,1,
+116,amarsh,Viewer,De-identified,0,0,
+116,ppruitt,Data Entry,None,0,0,2026-08-11
+116,cdelgado,Analyst,De-identified,0,0,2026-06-10
+116,hnakamura,Data Entry,None,0,0,
+116,lholloway,Data Entry,None,0,0,
+116,acoleman,Viewer,De-identified,0,0,
+116,lcastillo92,Analyst,Full,0,0,
+117,civerson,Owner,Full,1,1,
+117,lellison,Viewer,De-identified,0,0,
+117,aokafor58,Viewer,De-identified,0,0,
+117,rholloway54,Data Entry,None,0,0,2026-10-01
+117,bmarsh,Data Entry,None,0,0,2026-09-23
+117,epruitt,Viewer,De-identified,0,0,
+118,pmarsh,Owner,Full,1,1,
+118,rellison,Viewer,De-identified,0,0,2026-08-30
+118,tokafor,Analyst,Full,0,0,2026-09-14
+118,emarsh,Data Entry,None,0,0,
+118,qwhitfield,Data Entry,None,0,0,2026-11-24
+118,lholloway,Viewer,De-identified,0,0,
+119,alindqvist,Owner,Full,1,1,
+119,dcoleman,Data Entry,None,0,0,2027-01-16
+119,biverson,Viewer,De-identified,0,0,
+119,mvance,Data Entry,None,0,0,
+119,pcoleman,Data Entry,None,0,0,
+119,pabernathy,Analyst,De-identified,0,0,2026-09-12
+119,cokafor,Analyst,Full,0,0,
+120,ccoleman,Owner,Full,1,1,
+120,kabernathy,Data Entry,None,0,0,
+120,pcoleman,Analyst,De-identified,0,0,
+120,tabernathy125,Viewer,De-identified,0,0,
+120,bmarsh,Viewer,De-identified,0,0,2026-04-30
+120,jwhitfield,Data Entry,None,0,0,2026-05-21
+121,apruitt,Owner,Full,1,1,
+121,ccoleman,Data Entry,None,0,0,
+121,tmarsh,Data Entry,None,0,0,
+121,mbrandt,Data Entry,None,0,0,
+121,atran,Viewer,De-identified,0,0,
+121,scastillo,Data Entry,None,0,0,2026-11-20
+121,kvance,Data Entry,None,0,0,
+121,tiverson28,Data Entry,None,0,0,
+121,dbrandt,Data Entry,None,0,0,
+121,lcastillo,Data Entry,None,0,0,
+122,rholloway,Owner,Full,1,1,
+122,tdelgado,Data Entry,None,0,0,2026-12-06
+122,rholloway54,Viewer,De-identified,0,0,
+122,tabernathy,Analyst,Full,0,0,2026-09-02
+122,bpruitt,Data Entry,None,0,0,2026-07-09
+122,diverson44,Viewer,De-identified,0,0,
+122,spruitt,Data Entry,None,0,0,2026-12-16
+123,smarsh,Owner,Full,1,1,
+123,atran,Data Entry,None,0,0,
+123,ptran,Data Entry,None,0,0,2026-06-20
+123,alindqvist129,Viewer,De-identified,0,0,
+123,hwhitfield45,Data Entry,None,0,0,2026-06-23
+123,diverson44,Analyst,De-identified,0,0,2026-11-22
+123,mvance53,Viewer,De-identified,0,0,
+123,smarsh132,Analyst,Full,0,0,
+124,cdelgado,Owner,Full,1,1,
+124,plindqvist,Data Entry,None,0,0,
+124,qholloway,Data Entry,None,0,0,
+124,tokafor,Data Entry,None,0,0,
+124,alindqvist129,Viewer,De-identified,0,0,
+124,ecoleman,Data Entry,None,0,0,
+125,qellison,Owner,Full,1,1,
+125,ssorensen,Data Entry,Full,0,0,2026-10-05
+125,diverson44,Data Entry,None,0,0,
+125,cholloway,Analyst,Full,0,0,
+125,rholloway,Data Entry,None,0,0,
+125,hwhitfield45,Data Entry,None,0,0,
+126,mmarsh,Owner,Full,1,1,
+126,qsorensen,Viewer,De-identified,0,0,
+126,hnakamura,Analyst,Full,0,0,
+126,amarsh,Data Entry,Full,0,0,
+126,ldelgado,Data Entry,None,0,0,2026-11-12
+127,pokafor,Owner,Full,1,1,
+127,hlindqvist,Data Entry,None,0,0,
+127,jcastillo,Viewer,De-identified,0,0,
+127,lcastillo,Data Entry,None,0,0,
+127,ccoleman122,Viewer,De-identified,0,0,
+127,rabernathy,Data Entry,None,0,0,
+127,jtran,Viewer,De-identified,0,0,
+127,swhitfield,Data Entry,None,0,0,
+127,tokafor,Viewer,De-identified,0,0,2026-05-17
+128,cokafor,Owner,Full,1,1,
+128,rsorensen,Data Entry,None,0,0,
+128,qcoleman,Viewer,De-identified,0,0,2026-12-28
+128,qsorensen,Data Entry,None,0,0,2025-12-11
+128,kvance,Analyst,Full,0,0,
+129,acoleman,Owner,Full,1,1,
+129,pholloway,Viewer,De-identified,0,0,2026-10-13
+129,ecoleman,Analyst,Full,0,0,
+129,cokafor,Data Entry,None,0,0,
+129,rsorensen143,Data Entry,None,0,0,
+129,hlindqvist,Data Entry,None,0,0,
+129,diverson,Data Entry,None,0,0,
+130,rcoleman,Owner,Full,1,1,
+130,qsorensen,Analyst,Full,0,0,
+130,kvance22,Data Entry,None,0,0,2026-11-22
+130,pcoleman,Data Entry,None,0,0,
+130,cokafor138,Data Entry,None,0,0,2026-07-05
+130,stran,Data Entry,None,0,0,2027-01-22
+130,tmercer,Viewer,De-identified,0,0,2026-02-03
+130,mholloway,Viewer,De-identified,0,0,
+130,smarsh132,Analyst,Full,0,0,
+130,epruitt,Data Entry,Full,0,0,2027-01-21
+131,jtran91,Owner,Full,1,1,
+131,cwhitfield,Data Entry,None,0,0,
+131,cmercer,Viewer,De-identified,0,0,
+131,rcastillo,Analyst,De-identified,0,0,
+131,tmercer,Data Entry,None,0,0,2026-11-01
+131,stran,Analyst,Full,0,0,
+131,kbrandt,Viewer,De-identified,0,0,2026-05-05
+131,qlindqvist,Viewer,De-identified,0,0,
+131,rsorensen69,Analyst,Full,0,0,
+131,tiverson,Viewer,De-identified,0,0,
+132,hwhitfield45,Owner,Full,1,1,
+132,tabernathy125,Data Entry,None,0,0,
+132,pabernathy,Analyst,De-identified,0,0,
+132,tiverson28,Data Entry,None,0,0,
+132,elindqvist,Data Entry,None,0,0,
+132,pholloway104,Viewer,De-identified,0,0,
+132,cmercer,Analyst,Full,0,0,
+132,mpruitt,Data Entry,None,0,0,
+132,dcoleman,Data Entry,None,0,0,
+132,tmarsh80,Data Entry,None,0,0,
+132,mvance,Viewer,De-identified,0,0,
+133,jellison,Owner,Full,1,1,
+133,alindqvist129,Viewer,De-identified,0,0,
+133,rellison,Data Entry,None,0,0,2026-07-04
+133,hwhitfield,Data Entry,None,0,0,2026-05-08
+133,tdelgado,Data Entry,None,0,0,2026-07-13
+133,rholloway,Analyst,De-identified,0,0,
+134,rokafor,Owner,Full,1,1,
+134,ssorensen,Data Entry,None,0,0,2026-12-10
+134,jtran,Analyst,De-identified,0,0,2026-11-13
+134,kvance,Analyst,Full,0,0,
+134,dcoleman99,Data Entry,None,0,0,
+134,evance,Viewer,De-identified,0,0,
+134,bmarsh,Data Entry,None,0,0,
+134,jellison,Analyst,Full,0,0,2026-09-25
+135,ptran,Owner,Full,1,1,
+135,dbrandt,Data Entry,None,0,0,2026-08-18
+135,rlindqvist102,Data Entry,None,0,0,
+135,tokafor114,Viewer,De-identified,0,0,
+135,ccastillo,Data Entry,None,0,0,
+135,jtran91,Data Entry,None,0,0,
+135,hwhitfield45,Data Entry,None,0,0,2026-09-16
+136,tsorensen,Owner,Full,1,1,
+136,scastillo,Data Entry,None,0,0,
+136,qholloway,Analyst,De-identified,0,0,
+136,kellison,Data Entry,None,0,0,
+136,rmercer,Viewer,De-identified,0,0,
+136,tmarsh,Data Entry,None,0,0,2026-05-17
+136,evance,Viewer,De-identified,0,0,
+136,rmarsh,Data Entry,None,0,0,
+136,adelgado,Analyst,De-identified,0,0,
+136,tpruitt,Viewer,De-identified,0,0,2026-09-22
+137,stran,Owner,Full,1,1,
+137,mvance,Data Entry,None,0,0,
+137,rmercer,Data Entry,None,0,0,
+137,jwhitfield,Data Entry,None,0,0,2026-11-06
+137,jellison,Viewer,De-identified,0,0,
+137,amarsh,Data Entry,None,0,0,2027-01-16
+137,cwhitfield,Data Entry,None,0,0,2026-12-01
+138,lpruitt,Owner,Full,1,1,
+138,siverson,Analyst,De-identified,0,0,2026-10-05
+138,tiverson,Viewer,De-identified,0,0,
+138,adelgado,Analyst,De-identified,0,0,
+138,mholloway,Data Entry,None,0,0,2026-05-25
+139,mbrandt,Owner,Full,1,1,
+139,hwhitfield45,Data Entry,None,0,0,
+139,jtran91,Analyst,Full,0,0,2026-09-30
+139,apruitt,Data Entry,None,0,0,
+139,cholloway,Data Entry,None,0,0,
+139,acoleman,Viewer,De-identified,0,0,2026-06-18
+139,diverson44,Viewer,De-identified,0,0,2026-09-24
+139,kcastillo,Data Entry,None,0,0,
+139,llindqvist,Analyst,Full,0,0,
+139,pmercer,Analyst,Full,0,0,2026-11-05
+140,lcastillo92,Owner,Full,1,1,
+140,amarsh,Analyst,De-identified,0,0,2026-12-08
+140,jtran91,Data Entry,None,0,0,2026-09-10
+140,jcastillo,Data Entry,None,0,0,
+140,stran,Data Entry,None,0,0,
+140,cwhitfield,Analyst,Full,0,0,
+140,bdelgado,Analyst,Full,0,0,

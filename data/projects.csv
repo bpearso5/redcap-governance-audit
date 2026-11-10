@@ -1,0 +1,41 @@
+project_id,title,status,owner_username,has_documentation
+101,Lab result intake 2024-01,Production,tdelgado,Y
+102,Case surveillance 2025-02,Analysis/Cleanup,rlindqvist,Y
+103,Vaccine follow-up 2026-03,Analysis/Cleanup,mpruitt,Y
+104,Case surveillance 2023-04,Development,pwhitfield,Y
+105,Survey 2024-05,Analysis/Cleanup,tokafor114,Y
+106,Vaccine follow-up 2025-06,Analysis/Cleanup,ccastillo,Y
+107,Vaccine follow-up 2026-07,Analysis/Cleanup,ecoleman,Y
+108,Case surveillance 2023-08,Production,qsorensen46,N
+109,Program evaluation 2024-09,Production,dholloway,Y
+110,Case surveillance 2025-10,Production,kcastillo,Y
+111,Vaccine follow-up 2026-11,Production,kvance,Y
+112,Outbreak investigation 2023-12,Analysis/Cleanup,rlindqvist102,Y
+113,Survey 2024-13,Production,tiverson,Y
+114,Case surveillance 2025-14,Production,bmarsh,N
+115,Quality improvement 2026-15,Production,hwhitfield,Y
+116,Survey 2023-16,Analysis/Cleanup,jcastillo,Y
+117,Lab result intake 2024-17,Production,civerson,N
+118,Quality improvement 2025-18,Production,pmarsh,Y
+119,Quality improvement 2026-19,Production,alindqvist,Y
+120,Program evaluation 2023-20,Development,ccoleman,Y
+121,Outbreak investigation 2024-21,Production,apruitt,Y
+122,Quality improvement 2025-22,Development,rholloway,Y
+123,Quality improvement 2026-23,Production,smarsh,Y
+124,Vaccine follow-up 2023-24,Production,cdelgado,N
+125,Lab result intake 2024-25,Production,qellison,Y
+126,Vaccine follow-up 2025-26,Production,mmarsh,Y
+127,Vaccine follow-up 2026-27,Production,pokafor,Y
+128,Lab result intake 2023-28,Production,cokafor,Y
+129,Vaccine follow-up 2024-29,Production,acoleman,Y
+130,Survey 2025-30,Production,rcoleman,Y
+131,Lab result intake 2026-31,Development,jtran91,Y
+132,Lab result intake 2023-32,Development,hwhitfield45,Y
+133,Vaccine follow-up 2024-33,Analysis/Cleanup,jellison,Y
+134,Case surveillance 2025-34,Development,rokafor,Y
+135,Outbreak investigation 2026-35,Development,ptran,Y
+136,Quality improvement 2023-36,Production,tsorensen,Y
+137,Lab result intake 2024-37,Development,stran,Y
+138,Survey 2025-38,Production,lpruitt,Y
+139,Program evaluation 2026-39,Production,mbrandt,Y
+140,Survey 2023-40,Analysis/Cleanup,lcastillo92,Y

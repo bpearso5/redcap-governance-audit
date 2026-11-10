@@ -1,0 +1,38 @@
+check_id,entity_key,seeded_defect
+C01,biverson,"Separated staff, REDCap account still active"
+C01,diverson,"Separated staff, REDCap account still active"
+C01,diverson44,"Separated staff, REDCap account still active"
+C01,ldelgado,"Separated staff, REDCap account still active"
+C01,rmarsh,"Separated staff, REDCap account still active"
+C01,siverson,"Separated staff, REDCap account still active"
+C02,aellison,No login in 90+ days but still has project rights
+C02,atran,No login in 90+ days but still has project rights
+C02,cwhitfield,No login in 90+ days but still has project rights
+C02,kabernathy,No login in 90+ days but still has project rights
+C02,pmercer,No login in 90+ days but still has project rights
+C02,qcoleman,No login in 90+ days but still has project rights
+C02,swhitfield,No login in 90+ days but still has project rights
+C02,tellison,No login in 90+ days but still has project rights
+C03,105|elindqvist,Full export on a Data Entry/Viewer role
+C03,111|tmercer,Full export on a Data Entry/Viewer role
+C03,125|ssorensen,Full export on a Data Entry/Viewer role
+C03,126|amarsh,Full export on a Data Entry/Viewer role
+C03,130|epruitt,Full export on a Data Entry/Viewer role
+C04,111,Production project owned by a suspended account
+C04,121,Production project owned by a suspended account
+C04,139,Production project owned by a suspended account
+C05,AL-020,Active alert sends to a non-staff address
+C05,AL-021,Follow-on from C04: alert still routes to a separated owner
+C05,AL-046,Active alert sends to a non-staff address
+C05,AL-047,Active alert sends to a non-staff address
+C05,AL-048,Follow-on from C04: alert still routes to a separated owner
+C05,AL-052,Active alert sends to a non-staff address
+C06,105|rmercer,User right past its expiration date
+C06,106|qholloway,User right past its expiration date
+C06,111|lellison,User right past its expiration date
+C06,128|qsorensen,User right past its expiration date
+C06,130|tmercer,User right past its expiration date
+C07,108,Production project with no documentation on file
+C07,114,Production project with no documentation on file
+C07,117,Production project with no documentation on file
+C07,124,Production project with no documentation on file
