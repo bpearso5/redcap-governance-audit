@@ -2,7 +2,15 @@
 
 SQL access-audit checks, a request tracker with service-level targets, and a corrective-action log for a REDCap research data platform, rebuilt from my work supporting REDCap administration in a public-health division.
 
-> **All data is synthetic.** The organization, staff, projects, and alerts are invented. No agency data, names, or screenshots appear in this repo.
+> **All data is synthetic.** The organization, staff, projects, and alerts are invented. No agency data, names, or screenshots of real systems appear in this repo.
+
+## Preview
+
+The Summary tab of the workbook: request volume and SLA performance by type, plus audit findings by check. Every figure is a formula.
+
+![Summary tab: 48 requests with SLA performance by type, and 37 audit findings across seven access checks](docs/images/redcap_summary.png)
+
+**[View every tab as a PDF](workbook/REDCap_Request_Tracker_and_Access_Audit.pdf)** (opens in the browser) · [Download the Excel file](workbook/REDCap_Request_Tracker_and_Access_Audit.xlsx) to see the formulas
 
 ## The problem
 
@@ -17,6 +25,7 @@ In my role, I reviewed REDCap project records, user access, alerts, documentatio
 | [`sql/access_audit_checks.sql`](sql/access_audit_checks.sql) | Seven audit checks in portable SQL (MySQL 8 and SQLite 3) |
 | [`sql/schema.sql`](sql/schema.sql) | Tables: staff roster, REDCap users, projects, user rights, alerts |
 | [`workbook/REDCap_Request_Tracker_and_Access_Audit.xlsx`](workbook/REDCap_Request_Tracker_and_Access_Audit.xlsx) | Request tracker with SLA scoring, audit corrective-action log, and a formula-driven summary |
+| [`workbook/REDCap_Request_Tracker_and_Access_Audit.pdf`](workbook/REDCap_Request_Tracker_and_Access_Audit.pdf) | Every tab as a PDF, viewable without Excel |
 | [`docs/intake_to_resolution.md`](docs/intake_to_resolution.md) | Request workflow, intake rules, least-privilege role matrix, and offboarding steps |
 | [`data/`](data/) | Synthetic CSVs, the SQLite database, the answer key, and the audit findings |
 | [`scripts/`](scripts/) | Data generator, check runner, and workbook builder |
